@@ -1,0 +1,38 @@
+_repo: Americanism-Contrasted-with-Foreignism-Romanism-and-Bogus-Democracy-in-the-Light-of-Reason-Hi__28328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownlow, William Gannaway
+    aliases:
+    - Brownlow, Parson
+    - Brownlow, W. G. (William Gannaway)
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '33270'
+    url: http://www.gutenberg.org/2009/agents/33270
+    wikipedia: http://en.wikipedia.org/wiki/William_Gannaway_Brownlow
+description: ''
+gutenberg_issued: '2009-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1853-1857'
+- !lcsh 'American Party'
+- !lcsh 'Tennessee -- Politics and government'
+- !lcsh 'Campaign literature, 1865 -- American'
+title: 'Americanism Contrasted with Foreignism, Romanism, and Bogus Democracy in the
+  Light of Reason, History, and Scripture;
+
+  In which Certain Demagogues in Tennessee, and Elsewhere,
+
+  are Shown Up in Their True Colors'
+url: http://www.gutenberg.org/ebooks/28328
